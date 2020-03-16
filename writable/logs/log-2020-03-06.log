@@ -1,0 +1,120 @@
+CRITICAL - 2020-03-06 19:19:45 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:20:07 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:20:16 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:20:28 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:20:41 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:21:03 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:22:31 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:22:39 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:23:33 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:24:02 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:24:24 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-03-06 19:24:33 --> syntax error, unexpected '}', expecting ';'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp-7.4.0\\...')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
