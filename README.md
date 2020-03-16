@@ -3,6 +3,25 @@
 - [Videos](https://www.youtube.com/watch?v=DRfpeUvj3_A&list=PLmrTMUhqzS3jbQE1Pgx-1SdfS9EEUthDJ)
 - [Source Code](https://github.com/jeevan15498/CodeIgniter-4-Beginning-Tutorials)
 
+### Virtual Hosting
+
+* `apache2/conf/extra/httpd-vhost.conf`
+
+```
+<VirtualHost *:80>
+    DocumentRoot "/opt/lamp7.2/apache2/htdocs/myproject/public"
+    ServerName myproject.local
+    ErrorLog "logs/myproject-error_log"
+    CustomLog "logs/myproject-access_log" common
+</VirtualHost>
+```
+
+* `c:/Windows/System32/drivers/etc/hosts`
+
+```
+127.0.0.1 myproject.local
+```
+
 ### Topics
 
 * ✎ How to install CodeIgniter 4
