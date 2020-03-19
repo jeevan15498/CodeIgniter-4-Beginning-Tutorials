@@ -2,6 +2,7 @@
 
 - [Videos](https://www.youtube.com/watch?v=DRfpeUvj3_A&list=PLmrTMUhqzS3jbQE1Pgx-1SdfS9EEUthDJ)
 - [Source Code](https://github.com/jeevan15498/CodeIgniter-4-Beginning-Tutorials)
+- Local Host: http://codeigniter4_app.local/
 
 ### Virtual Hosting
 

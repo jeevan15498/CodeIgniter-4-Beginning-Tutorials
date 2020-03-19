@@ -1,0 +1,70 @@
+CRITICAL - 2020-03-16 13:26:45 --> Cannot access protected property CodeIgniter\Router\RouteCollection::$routes
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(772): require()
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 13:26:58 --> syntax error, unexpected ':', expecting ')'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-03-16 13:27:04 --> Undefined class constant 'routes'
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(772): require()
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-03-16 13:27:17 --> Return value of CodeIgniter\Router\RouteCollection::getHTTPVerb() must be of the type string, null returned
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Router\RouteCollection.php(523): CodeIgniter\Router\RouteCollection->getHTTPVerb()
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\app\Config\Routes.php(76): CodeIgniter\Router\RouteCollection->getRoutes()
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(772): require('D:\\xampp-7.4.0\\...')
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-03-16 14:22:18 --> Invalid file: {0}
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Common.php(1071): CodeIgniter\View\View->render('admin', Array, true)
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\modules\Admin\Controllers\Admin.php(13): view('admin')
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(910): Modules\Admin\Controllers\Admin->index()
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(Modules\Admin\Controllers\Admin))
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 14:22:42 --> Invalid file: {0}
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Common.php(1071): CodeIgniter\View\View->render('admin', Array, true)
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\modules\Admin\Controllers\Admin.php(13): view('admin')
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(910): Modules\Admin\Controllers\Admin->index()
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(Modules\Admin\Controllers\Admin))
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 14:23:22 --> Invalid file: {0}
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Common.php(1071): CodeIgniter\View\View->render('admin', Array, true)
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\modules\Admin\Controllers\Admin.php(13): view('admin')
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(910): Modules\Admin\Controllers\Admin->index()
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(Modules\Admin\Controllers\Admin))
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 14:23:50 --> Invalid file: {0}
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Common.php(1071): CodeIgniter\View\View->render('admin', Array, true)
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\modules\Admin\Controllers\Admin.php(13): view('admin')
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(910): Modules\Admin\Controllers\Admin->index()
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(Modules\Admin\Controllers\Admin))
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-03-16 14:25:54 --> Invalid file: {0}
+#0 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\Common.php(1071): CodeIgniter\View\View->render('admin', Array, true)
+#2 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\modules\Admin\Controllers\Admin.php(13): view('admin')
+#3 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(910): Modules\Admin\Controllers\Admin->index()
+#4 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(Modules\Admin\Controllers\Admin))
+#5 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp-7.4.0\htdocs\CodeIgniter4-4.0.2\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
