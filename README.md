@@ -36,4 +36,5 @@
 * ✎ Setup CodeIgniter 4 .htaccess file
 * ✎ Set Timezone in CodeIgniter 4
 * ✎ How to enable and disable Debug Toolbar in CodeIgniter 4
+* ✎ Module Base CodeIgniter 4 Project (HMVC)
 
